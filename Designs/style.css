@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+
+  .nav-links li{
+  display: inline-block;
+  padding: 0px 20px;
+ 
+}
